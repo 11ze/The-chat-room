@@ -1,5 +1,6 @@
 # The-chat-room
 - 优化了代码，封装了三个server
+- 界面全部英文化
 - 解决了无数个bug：
   - pictureServer和fileServer不能同时运行的问题
   - 截屏按钮不能正常工作的问题
