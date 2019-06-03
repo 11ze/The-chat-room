@@ -24,3 +24,5 @@ PS:<br>
  里面的代码如果有多个版本则是功能慢慢完善的过程<br>
  更多的具体看每个代码开头的注释说明<br>
  
+预览图:<br>
+![image](http://github.com/11ze/The-chat-room/raw/master/完整版聊天室(版本8-14)/server_client14(最终版本)/14-3.jpg)
