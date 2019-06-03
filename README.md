@@ -25,4 +25,4 @@ PS:<br>
  更多的具体看每个代码开头的注释说明<br>
  
 预览图:<br>
-![image](http://github.com/11ze/The-chat-room/raw/master/完整版聊天室(版本8-14)/server_client14(最终版本)/14-3.jpg)
+![image](https://github.com/11ze/The-chat-room/blob/master/%E5%AE%8C%E6%95%B4%E7%89%88%E8%81%8A%E5%A4%A9%E5%AE%A4(%E7%89%88%E6%9C%AC8-14)/server_client14(%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC)/14-3.jpg)
