@@ -1,0 +1,10 @@
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.8
+netifaces==0.10.9
+numpy==1.17.4
+opencv-python==4.1.2.30
+Pillow==6.2.1
+PyAudio==0.2.11
+requests==2.22.0
+urllib3==1.25.7
