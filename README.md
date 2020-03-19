@@ -40,5 +40,5 @@
 
 演示:
 
-![image](https://github.com/11ze/The-chat-room/tree/master/images/user1.png)
-![image](https://github.com/11ze/The-chat-room/tree/master/images/user2.png)
+![image](https://raw.githubusercontent.com/11ze/The-chat-room/master/images/user1.png)
+![image](https://raw.githubusercontent.com/11ze/The-chat-room/master/images/user2.png)
